@@ -20,3 +20,6 @@ editor: visual
 execute:
   freeze: auto
 
+comments:
+  giscus:
+    repo: YOURGITHUBACCOUNT/YOURREPO
