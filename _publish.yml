@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 41d9dd55-4460-4ebf-bce8-6c7d9edef7a1
+      url: 'https://hippototo.quarto.pub/sensornetworks-avocado'
